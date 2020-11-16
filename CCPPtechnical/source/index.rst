@@ -18,8 +18,5 @@ CCPP Technical Documentation
    HostSideCoding
    CodeManagement
    CCPPPreBuild
-   AddingNewSchemes
-   ParamSpecificOutput
-   CCPPDebug
-   Acronyms
-   Glossary
+
+
